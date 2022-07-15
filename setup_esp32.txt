@@ -1,0 +1,10 @@
+Steps to setup the esp32
+
+1- Download the arduino IDE
+2- Open the arduino app and go to file -> preferences after that, enter this link "https://dl.espressif.com/dl/package_esp32_index.json" in the additional boards manager urls
+3- Go to tools -> boards manager then type esp32 and choose the latest version, after that press install to install the libraries
+4- Go to tools you will see all the libraries choose esp32 dev module
+5- To connect the esp32 you need a usb cable, then connect it to the board 
+6- Comeback to the app and select esp32 dev module board -> port:"COM5"
+7- Press upload 
+8- To see the output open the serial monitor.
