@@ -1,2 +1,2 @@
 # Task1 Convert audio to text and setup esp32
-Task1 is divide into two mitssion first one converting the audio to text in arabic language the second one is writing a steps to setup the esp32
+Task 1 is divided into two sections first converting the audio to text in Arabic; second writing steps to setup the esp32.
